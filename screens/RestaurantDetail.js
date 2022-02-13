@@ -7,41 +7,41 @@ import ViewCart from "../components/restaurantDetail/ViewCart";
 
 const foods = [
   {
-    title: "Lasagna",
-    description: "With butter lettuce, tomato and sauce bechamel",
-    price: "$13.50",
-    image:
-      "https://www.modernhoney.com/wp-content/uploads/2019/08/Classic-Lasagna-14-scaled.jpg",
-  },
-  {
-    title: "Tandoori Chicken",
+    title: "Spicy Shoyu Ramen",
     description:
-      "Amazing Indian dish with tenderloin chicken off the sizzles 🔥",
-    price: "$19.20",
-    image: "https://i.ytimg.com/vi/BKxGodX9NGg/maxresdefault.jpg",
-  },
-  {
-    title: "Chilaquiles",
-    description:
-      "Chilaquiles with cheese and sauce. A delicious mexican dish 🇲🇽",
+      "Topped with soft-boiled egg, fish-cake, nori and fall-apart tender chashu",
     price: "$14.50",
     image:
-      "https://i2.wp.com/chilipeppermadness.com/wp-content/uploads/2020/11/Chilaquales-Recipe-Chilaquiles-Rojos-1.jpg",
+      "https://www.justonecookbook.com/wp-content/uploads/2017/07/Spicy-Shoyu-Ramen-NEW-500x375.jpg",
   },
   {
-    title: "Chicken Caesar Salad",
-    description:
-      "One can never go wrong with a chicken caesar salad. Healthy option with greens and proteins!",
-    price: "$21.50",
+    title: "Karaage Donburi",
+    description: "Crispy juicy fried chicken served on white rice🔥",
+    price: "$14.50",
     image:
-      "https://images.themodernproper.com/billowy-turkey/production/posts/2019/Easy-italian-salad-recipe-10.jpg?w=1200&h=1200&q=82&fm=jpg&fit=crop&fp-x=0.5&fp-y=0.5&dm=1614096227&s=c0f63a30cef3334d97f9ecad14be51da",
+      "https://www.justonecookbook.com/wp-content/uploads/2018/06/Chinese-style-Chicken-Karaage-Donburi-w600-500x375.jpg",
   },
   {
-    title: "Lasagna",
-    description: "With butter lettuce, tomato and sauce bechamel",
+    title: "Salt Grilled Mackerel lunch set",
+    description:
+      "With white rice, Japanese pickled vegetables and homemade miso soup",
+    price: "$14.50",
+    image: "https://image.hitosara.com/gg/image/0006100506/0006100506F2.jpg",
+  },
+  {
+    title: "Miso Ramen",
+    description:
+      "Our infamous homemade Miso Ramen topped with chicken and soft-boiled eggs ",
+    price: "$17.50",
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrPZrbYGYV6OsmffnIo72qnpc5jooxep2Q5aVf4pSwQNZwvWZv6usQ09AcuEumOaIy5vo&usqp=CAU",
+  },
+  {
+    title: "Grilled Eel (Unagi) Don",
+    description: "On top of white rice",
     price: "$13.50",
     image:
-      "https://thestayathomechef.com/wp-content/uploads/2017/08/Most-Amazing-Lasagna-2-e1574792735811.jpg",
+      "https://www.justonecookbook.com/wp-content/uploads/2019/05/Unagi-Donburi-I-1.jpg",
   },
 ];
 

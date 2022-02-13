@@ -85,8 +85,8 @@ const FoodImage = ({ marginLeft, ...props }) => (
     <Image
       source={{ uri: props.food.image }}
       style={{
-        width: 100,
-        height: 100,
+        width: 90,
+        height: 90,
         borderRadius: 8,
         marginLeft: marginLeft,
       }}
