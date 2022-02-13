@@ -23,6 +23,7 @@ export default function ViewCart({ navigation }) {
   });
 
   const addOrderToFireBase = () => {
+    console.log("addOrderToFirebase");
     setLoading(true);
     const db = firebase.firestore();
     db.collection("orders")
@@ -141,7 +142,7 @@ export default function ViewCart({ navigation }) {
             justifyContent: "center",
             flexDirection: "row",
             position: "absolute",
-            bottom: 220,
+            bottom: 130,
             zIndex: 999,
           }}
         >
